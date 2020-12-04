@@ -11,3 +11,19 @@ Je suis aussi spécialisé maquettiste/infographiste depuis 5 ans grâce à mon 
 Je suis passionnée par ces deux métiers, je suis curieuse 🤓 et j'aime apprendre des nouvelles choses qui pourraient m'apporter dans mon évolution professionnelle.🤩
 
 Un métier n'est jamais acquis, il faut toujours se documenter 📄📚 et en apprendre des autres pour évolué🙋‍♂️🙋‍♀️. C'est ça la clé !🔑
+
+##  Compétences 
+
+- HTML
+- CSS
+- PHP
+- MYSQL
+- BOOSTRAP
+- Photoshop
+- Illustrator
+- InDesign
+
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celia-rameau-7b238a18b/)
+[![Instagram Badge](https://img.shields.io/badge/instagram-FE7A16?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/celia.rameau/)
