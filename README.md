@@ -2,11 +2,11 @@
 
 ## 👻 Qui suis-je ? 👻
 
-Je suis une jeune développeuse qui est actuellement en formation développeur web/web mobile avec l'ACCESCODESCHOOL à Montereau-Fault-Yonne. 👩‍💻
+Je suis une jeune développeuse qui est actuellement en formation développeur web/web mobile avec l'ACCESSCODESCHOOL à Montereau-Fault-Yonne. 👩‍💻
 
 Je suis aussi spécialisé maquettiste/infographiste depuis 5 ans grâce à mon bac et mon BTS dans les industries graphiques. 🎨
 
-💪 J'ai l'intention de réunir ses deux forces pour être polyvalent dans mes prochains poste. 💪
+💪 J'ai l'intention de réunir ses deux forces pour être polyvalentz dans mes prochains postes. 💪
 
 Je suis passionnée par ces deux métiers, je suis curieuse 🤓 et j'aime apprendre des nouvelles choses qui pourraient m'apporter dans mon évolution professionnelle.🤩
 
